@@ -14,7 +14,7 @@
     
     <groupId>be.cegeka</groupId>
     <artifactId>gameoflife</artifactId>
-    <version>0.0.3-snapshot</version>
+    <version>0.0.3-SNAPSHOTS</version>
     <packaging>war</packaging>
     <name>gameoflife</name>
     <prerequisites>
